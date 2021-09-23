@@ -5,3 +5,4 @@ Curso de GitHub de Platzi
 
 * Creado por mí
 * Incluye ejemplos
+* Disponible para todas las edades
